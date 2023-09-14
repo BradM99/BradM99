@@ -4,7 +4,7 @@ My name is Bradley, I'm 23 years old and currently in my 2nd year of study at th
 
 ## Skills
 <li>Database Development</li>
-<li>Web Developmenet</li>
+<li>Web Development</li>
 <li>Software Engineering</li>
 <li>Systems Analysis/Management</li> <br>
 
