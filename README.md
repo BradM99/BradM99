@@ -6,4 +6,4 @@
 <li>Operating Systems and Concurrency</li>
 <li>Formal Reasoning</li>
 <li>Developing Maintainable Systems</li>
-<li>Year-long group projet with an industry sponsor</li> <br>
+<li>Year-long group project with an industry sponsor</li> <br>
