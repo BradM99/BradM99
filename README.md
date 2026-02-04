@@ -5,7 +5,7 @@
 <li>Contributed to the rewrite of proprietary cloud upload software for inspections</li>
 <li>Developed tools for camera calibration using OpenCV to generate distortion matrices</li>
 
-## Nestle and University of Nottingham
+## Nestle & University of Nottingham
 <li>Led a team of 8 students in developing a visual concept generator for Nestle</li>
 <li>Utilised Jira and Confluence to track development progress and incorporate Agile into our development</li>
 <li>Used HTML/CSS/JS to create a frontend which allowed the user to interact with our fine-tuned stable diffusion model</li>
