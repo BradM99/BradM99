@@ -11,7 +11,6 @@
 <li>Used HTML/CSS/JS to create a frontend which allowed the user to interact with our fine-tuned stable diffusion model</li>
 <li>First point of contact for Nestle Product Owners to gather requirements and assess scope limitations</li>
 
-# Current Project
 ## Skatemap 
 - An interactive map to discover and share skateboard spots in the UK <br>
 [![Repo Badge](https://img.shields.io/badge/View-Repo-blue)](https://github.com/BradM99/skatemap)
