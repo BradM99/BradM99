@@ -14,4 +14,4 @@
 # Current Project
 ## Skatemap 
 - An interactive map to discover and share skateboard spots in the UK
-- [![Repo Badge](https://img.shields.io/badge/View-Repo-blue)](https://github.com/BradM99/skatemap)
+[![Repo Badge](https://img.shields.io/badge/View-Repo-blue)](https://github.com/BradM99/skatemap)
