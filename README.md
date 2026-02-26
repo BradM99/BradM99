@@ -12,6 +12,6 @@
 <li>First point of contact for Nestle Product Owners to gather requirements and assess scope limitations</li>
 
 # Current Project
-## Skatemap [![Repo Badge](https://img.shields.io/badge/View-Repo-blue)](https://github.com/BradM99/skatemap)
-An interactive map to discover and share skateboard spots in the UK
-
+## Skatemap 
+- An interactive map to discover and share skateboard spots in the UK
+- [![Repo Badge](https://img.shields.io/badge/View-Repo-blue)](https://github.com/BradM99/skatemap)
