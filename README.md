@@ -12,5 +12,5 @@
 <li>First point of contact for Nestle Product Owners to gather requirements and assess scope limitations</li>
 
 ## Skatemap 
-- An interactive map to discover and share skateboard spots in the UK <br>
+<li> An interactive map to discover and share skateboard spots in the UK</li>
 [![Repo Badge](https://img.shields.io/badge/View-Repo-blue)](https://github.com/BradM99/skatemap)
