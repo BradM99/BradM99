@@ -14,5 +14,5 @@
 ## Skatemap 
 <ul>
   <li>An interactive map to discover and share skateboard spots in the UK</li>
-  <li><a href="https://github.com/BradM99/skatemap">View Repo</a></li>
+  <li><a href="https://github.com/BradM99/skatemap">Skatemap</a></li>
 </ul>
