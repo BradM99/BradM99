@@ -1,17 +1,31 @@
-# Experience
+# Brad M
 
-## GE Aerospace
-- Developed software for aircraft inspections using Python, FastAPI and Pydantic
-- Optimised database operations for large amounts of transactions necessary for AI-driven inspections
-- Contributed to the rewrite of proprietary cloud upload software for inspections
-- Developed tools for camera calibration using OpenCV to generate distortion matrices
+Final year Computer Science student at the University of Nottingham — previously at GE Aerospace.
 
-## Nestle & University of Nottingham
-- Led a team of 8 students in developing a visual concept generator for Nestle
-- Utilised Jira and Confluence to track development progress and incorporate Agile into our development
-- Used HTML/CSS/JS to create a frontend which allowed the user to interact with our fine-tuned stable diffusion model
-- First point of contact for Nestle Product Owners to gather requirements and assess scope limitations
+I care about building software that's reliable, readable, and useful.
 
-## Skatemap
-- An interactive map to discover and share skateboard spots in the UK
-- [Skatemap](https://github.com/BradM99/skatemap)
+---
+
+## Experience
+
+**GE Aerospace** — Software Engineering Placement
+Contributed to [BIT](https://www.geaerospace.com/commercial/services/engine-maintenance-technologies/blade-inspection-tool), an AI-driven aircraft inspection tool built with Python and FastAPI.
+
+**Nestlé × University of Nottingham** — Team Lead
+Led a team of 8 to deliver a visual concept generator for Nestlé, acting as the primary contact for product owners throughout.
+
+---
+
+## Projects
+
+**[Skatemap](https://github.com/BradM99/skatemap)** — An interactive map to discover and share skateboard spots across the UK.
+
+---
+
+## Stack
+
+`Python` `FastAPI` `Pydantic` `PostgreSQL` `SQLite` `HTML/CSS/JS`
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BradM99&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default)
