@@ -2,7 +2,7 @@
 
 Final year Computer Science student at the University of Nottingham - previously at GE Aerospace.
 
-I have a strong interest in backend development.
+Interested primarily in backend development.
 
 ---
 
