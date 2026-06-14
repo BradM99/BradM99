@@ -1,6 +1,6 @@
-# Brad M
+# Bradley
 
-Final year Computer Science student at the University of Nottingham - previously at GE Aerospace.
+Graduated with a Computer Science degree in 2026 - University of Nottingham
 
 Interested primarily in backend development.
 
@@ -18,7 +18,7 @@ Led a team of 8 to deliver a visual concept generator for Nestlé, acting as the
 
 ## Projects
 
-**[Skatemap](https://github.com/BradM99/skatemap)** — An interactive map to discover and share skateboard spots across the UK.
+**[Skatemap](https://github.com/BradM99/skatemap)** — In progress: A map based media platform for sharing and discovering skateboarding spots
 
 ---
 
